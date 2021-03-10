@@ -1,2 +1,1 @@
-# ProjectS
-Project Sorin
+# Project Sorin
