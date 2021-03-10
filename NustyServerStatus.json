@@ -1,0 +1,10 @@
+{
+    "died": false,
+    "died_reason": null,
+    "legacy": false,
+    "legacy_reason": null,
+    "notice": {
+        "title": "null",
+        "msg": null
+    }
+}
