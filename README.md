@@ -7,9 +7,9 @@
 
 ### 안드로이드 앱
 * [Nusty](https://play.google.com/store/apps/details?id=com.darktornado.nusty)
-  * ~~Nusty Addon - Dark Cheater~~ **개발 중단**
+  * ~~Nusty Addon - Dark Cheater~~ - **개발 중단**
   * [Nusty Addon - SMS Supporter](https://blog.naver.com/dt3141592/221524480538)
-  * Nusty Web Utils
+  * Nusty Extender - **개발중**
 * Nustia
 * [Lacia](https://github.com/DarkTornado/Lacia)
 
@@ -21,8 +21,8 @@
 * [채팅 자동응답 봇](https://play.google.com/store/apps/details?id=com.darktornado.chatbot)
 * [뷁어 번역기](https://github.com/DarkTornado/BreakIt-Translator)
 * [AndroidTerminal](https://github.com/DarkTornado/AndroidTerminal)
-* [메이플스토리 도구](https://github.com/DarkTornado/MapleTools) **개발중**
-* ~~[메신저 도구](https://github.com/DarkTornado/MessangerUtils)~~ **개발중**
+* [메이플스토리 도구](https://github.com/DarkTornado/MapleTools) - **개발중**
+* ~~[메신저 도구](https://github.com/DarkTornado/MessangerUtils)~~ - **개발중**
 
 ## 기타 관련 항목
 * Project S와 관련된 것들
