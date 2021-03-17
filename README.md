@@ -17,12 +17,13 @@
 * Project S에 직접적으로 소속되어 있는 것의 일부 기능이 별도로 분리된 것.
 
 ### 안드로이드 앱
+* [Imanity Gen](https://play.google.com/store/apps/details?id=com.darktornado.imanity)
 * [전철 노선도](https://play.google.com/store/apps/details?id=com.darktornado.metromap)
 * [채팅 자동응답 봇](https://play.google.com/store/apps/details?id=com.darktornado.chatbot)
 * [뷁어 번역기](https://github.com/DarkTornado/BreakIt-Translator)
 * [AndroidTerminal](https://github.com/DarkTornado/AndroidTerminal)
-* [메이플스토리 도구](https://github.com/DarkTornado/MapleTools) - **개발중**
-* ~~[메신저 도구](https://github.com/DarkTornado/MessangerUtils)~~ - **개발중**
+* [메이플스토리 도구](https://github.com/DarkTornado/MapleTools)
+* [메신저 도구](https://github.com/DarkTornado/MessangerUtils) - **개발중**
 
 ## 기타 관련 항목
 * Project S와 관련된 것들
