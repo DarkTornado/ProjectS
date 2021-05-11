@@ -1,7 +1,7 @@
 {
-    "died": true,
-    "died_reason": "서버 장비 관련 작업으로 인하여, 당분간 서버가 필요한 기능들은 작동하지 않거나 레거시 서버를 사용하는거에요.",
-    "died_alter_url": "http://darktornado.dothome.co.kr/",
+    "died": false,
+    "died_reason": "no_msg",
+    "died_alter_url": "null",
     "notice": {
         "title": "null",
         "msg": null
