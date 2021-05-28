@@ -31,6 +31,7 @@
 ### 안드로이드 앱
 * <s>[Deep Dark Downloader](https://play.google.com/store/apps/details?id=com.darktornado.deepdarkdownloader)</s> - **개발 중단**
   * Dark Cheater에 있던 마인크래프트 PE 관련 콘텐츠 다운로더인 [Deep Dark Downloader](https://blog.naver.com/dt3141592/220775827121)를 앱으로도 만든거에요
+  * 몇 년 동안 잘 있다가, 갑자기 구글이 약관 위반이라면서 내려버린거에요.
 * [YouTube 다운로더](YouTubeDownloader)
   * 원래는 Nusty에 부가기능으로 넣으려다가 Google Play 스토어 정책 위반인 기능이라 넣지 않은 기능이에요.
 
