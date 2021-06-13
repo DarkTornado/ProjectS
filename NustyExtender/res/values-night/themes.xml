@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NustyEx" parent="android:Theme.Material">
+        <!-- Primary brand color. -->
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarSize">56sp</item>
+    </style>
+</resources>
