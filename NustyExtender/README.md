@@ -6,7 +6,7 @@
 
 ## To do
 
-* [ ] SMS 발신
-* [ ] SMS 수신 인식
-* [ ] 와이파이 제어
+* [x] SMS 발신
+* [x] SMS 수신 인식
+* [x] 와이파이 제어
 * [ ] [YouTube 동영상 추출](https://github.com/DarkTornado/YouTubeDownloader)
