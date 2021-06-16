@@ -63,18 +63,23 @@ public class MainActivity extends Activity {
             txts[n].setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    switch(v.getId()){
+                    Uri uri;
+                    switch (v.getId()) {
                         case 0:
                             startActivity(new Intent("android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS"));
                             toast("알림 접근 허용 창으로 이동합니다.");
                             break;
                         case 1:
-                            showDialog("앱 정보 / 도움말", "앱 이름 : Nusty Extender\n버전 : "+Nusty.getVersion()+"\n제작자 : Dark Tornado\n\n" +
-                                    "  Google측의 정책에 따라 특정한 기능을 가진 앱은 Play 스토어에 올리거나, 올릴 수 있어도 기능이 작동하지 않기 때문에, 해당 기능들만 따로 문리시킨거에요.\n"+
+                            showDialog("앱 정보 / 도움말", "앱 이름 : Nusty Extender\n버전 : " + Nusty.getVersion() + "\n제작자 : Dark Tornado\n\n" +
+                                    "  Google측의 정책에 따라 특정한 기능을 가진 앱은 Play 스토어에 올리거나, 올릴 수 있어도 기능이 작동하지 않기 때문에, 해당 기능들만 따로 문리시킨거에요.\n" +
                                     "  Nusty가 상단바에 요청을 담아 알림을 띄우면 Nusty Extender가 그 알림에 접근하여 요청한 작업을 수행하는 방식이에요");
                             break;
                         case 2:
-                            Uri uri = Uri.parse("https://blog.naver.com/dt3141592");
+                            uri = Uri.parse("https://github.com/DarkTornado/ProjectS");
+                            startActivity(new Intent(Intent.ACTION_VIEW, uri));
+                            break;
+                        case 3:
+                            uri = Uri.parse("https://blog.naver.com/dt3141592");
                             startActivity(new Intent(Intent.ACTION_VIEW, uri));
                             break;
                     }
