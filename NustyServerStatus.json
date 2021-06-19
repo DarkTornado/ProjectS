@@ -1,7 +1,7 @@
 {
-    "died": false,
-    "died_reason": "no_msg",
-    "died_alter_url": "null",
+    "died": true,
+    "died_reason": "서버 이전 작업이 진행 중인 관계로, 당분간 레거시 서버를 사용하는거에요.",
+    "died_alter_url": "http://darktornado.dothome.co.kr/",
     "notice": {
         "title": "null",
         "msg": null
