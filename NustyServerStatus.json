@@ -1,7 +1,7 @@
 {
-    "died": false,
-    "died_reason": "",
-    "died_alter_url": "",
+    "died": true,
+    "died_reason": "서버 오류로 인하여 당분간 레거시 서버를 활용합니다...",
+    "died_alter_url": "http://darktornado.dothome.co.kr/",
     "notice": {
         "title": "null",
         "msg": null
