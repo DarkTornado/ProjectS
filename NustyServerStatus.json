@@ -2,7 +2,7 @@
     "died": true,
     "died_reason": "서버 오류로 인하여 일부 기능들은 잠시 레거시 서버를 사용하고 있어요...",
     "died_alter_url": "http://darktornado.dothome.co.kr/",
-    "list": ["metro", "train"]
+    "list": ["metro", "train"],
     "notice": {
         "title": "null",
         "msg": null
