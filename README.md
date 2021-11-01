@@ -46,3 +46,5 @@
   * Nusty의 대화 기능을 구현하기 위해 만들어졌던 비공식 카카오톡 봇인거에요.
 * Lacia.js
   * 초기에는 Lacia.js의 기능들을 앱으로 다시 만든 것을 Lacia 앱으로 하려고 했었던거에요.
+* Skynet & [Skynet-Talk](https://github.com/DarkTornado/Skynet-Talk)
+  * 사실상 [Project M](https://github.com/DarkTornado/ProjectM)의 연장선
