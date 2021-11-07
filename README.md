@@ -1,6 +1,6 @@
 # Project S
 © 2017-2021 Dark Tornado, All rights reserved.
-* Special, Secret, Secretary, Support, Sorin.
+* Special, Secret, Secretary, Support, Sorin. <s>Skynet</s>
 
 ## 직접적으로 소속
 * Project S에 속해있는 것들이에요.
@@ -48,4 +48,4 @@
   * 초기에는 Lacia.js의 기능들을 앱으로 다시 만든 것을 Lacia 앱으로 하려고 했었던거에요.
 * Skynet & [Skynet-Talk](https://github.com/DarkTornado/Skynet-Talk)
   * 사실상 [Project M](https://github.com/DarkTornado/ProjectM)의 연장선
-  * 이제는 Project S 소속으로 들어갈 예정
+  * Project S로 편입되었습니다.
