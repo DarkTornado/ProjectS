@@ -8,7 +8,7 @@
 ### 안드로이드 앱
 * [Nusty](https://play.google.com/store/apps/details?id=com.darktornado.nusty)
   * ~~Nusty Addon - Dark Cheater~~ - **개발 중단**
-  * [Nusty Addon - SMS Supporter](https://blog.naver.com/dt3141592/221524480538)
+  * [Nusty Addon - SMS Supporter](https://blog.naver.com/dt3141592/221524480538) - `Nusty Extender`로 흡수
   * [Nusty Extender](NustyExtender) - **개발중**
 * Nustia
 * [Lacia](https://github.com/DarkTornado/Lacia)
