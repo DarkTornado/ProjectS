@@ -1,5 +1,5 @@
 # Project S
-© 2017-2021 Dark Tornado, All rights reserved.
+© 2017-2023 Dark Tornado, All rights reserved.
 * Special, Secret, Secretary, Support, Sorin. <s>Skynet</s>
 
 ## 직접적으로 소속
