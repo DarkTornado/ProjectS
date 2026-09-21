@@ -50,3 +50,9 @@
 * Skynet & [Skynet-Talk](https://github.com/DarkTornado/Skynet-Talk)
   * 사실상 [Project M](https://github.com/DarkTornado/ProjectM)의 연장선
   * Project S로 편입되었습니다.
+
+### 기타 프로젝트
+- [혼모노래방](https://github.com/DarkTornado/AnimeSongNumber)
+  - 별개의 앱이었으나 웹버전 개발 및 Nusty에 탑재
+- [전철 운행정보 API](https://github.com/DarkTornado/subway)
+  - Nusty에 있는 `실시간 전철 운행정보`의 공개용 버전
