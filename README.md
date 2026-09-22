@@ -58,3 +58,5 @@
   - 별개의 앱이었으나 웹버전 개발 및 Nusty에 탑재
 - [전철 운행정보 API](https://github.com/DarkTornado/subway)
   - Nusty에 있는 `실시간 전철 운행정보`의 공개용 버전
+- [여자친구 노래방번호 검색기](https://github.com/DarkTornado/GFriendMusic)
+- [오마이걸 노래방번호 검색기](https://github.com/DarkTornado/OhMyGirlMusic)
