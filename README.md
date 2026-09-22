@@ -24,6 +24,8 @@
 * [뷁어 번역기](https://github.com/DarkTornado/BreakIt-Translator)
 * [AndroidTerminal](https://github.com/DarkTornado/AndroidTerminal)
 * [메이플 도구](https://github.com/DarkTornado/MapleTools)
+   - [실방무 계산기](https://github.com/DarkTornado/MapleIgnoreDEFCalc) - 메이플 도구로 흡수
+   - [배고픈 무토 레시피](https://github.com/DarkTornado/MapleMutoRecipe) - 메이플 도구에서 분리
 * [메신저 도구](https://github.com/DarkTornado/MessangerUtils) - **개발중**
 
 ## 기타 관련 항목
