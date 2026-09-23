@@ -58,5 +58,9 @@
   - 별개의 앱이었으나 웹버전 개발 및 Nusty에 탑재
 - [전철 운행정보 API](https://github.com/DarkTornado/subway)
   - Nusty에 있는 `실시간 전철 운행정보`의 공개용 버전
+  - [후쿠오카 시영 지하철 실시간 운행 정보](https://github.com/DarkTornado/FukuokaCitySubway)
+  - [하코다테 시영 전차 실시간 위치 정보](https://github.com/DarkTornado/HakodateCityTram)
+  - [케이큐 전철 실시간 열차 위치](https://github.com/DarkTornado/Keikyu-realtime)
+  - [중화민국 지하철 실시간 위치](https://github.com/DarkTornado/TaiwanMetro)
 - [여자친구 노래방번호 검색기](https://github.com/DarkTornado/GFriendMusic)
 - [오마이걸 노래방번호 검색기](https://github.com/DarkTornado/OhMyGirlMusic)
