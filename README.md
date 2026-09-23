@@ -3,7 +3,7 @@
 - Special, Secret, Secretary, Support, Sorin. <s>Skynet</s>
 
 ## 직접적으로 소속
-- Project S에 속해있는 것들이에요.
+- Project S에 속해있는 것들
 
 ### 안드로이드 앱
 - [Nusty](https://play.google.com/store/apps/details?id=com.darktornado.nusty)
@@ -14,7 +14,7 @@
 - [Lacia](https://github.com/DarkTornado/Lacia)
 
 ## 간접적으로 소속
-- Project S에 직접적으로 소속되어 있는 것의 일부 기능이 별도로 분리된 것들이에요.
+- Project S에 직접적으로 소속되어 있는 것의 일부 기능이 별도로 분리된 것들
 
 ### 안드로이드 앱
 - [Imanity Gen](https://play.google.com/store/apps/details?id=com.darktornado.imanity)
@@ -34,20 +34,20 @@
 
 ### 안드로이드 앱
 - <s>[Deep Dark Downloader](https://play.google.com/store/apps/details?id=com.darktornado.deepdarkdownloader)</s> - **개발 중단**
-  - Dark Cheater에 있던 마인크래프트 PE 관련 콘텐츠 다운로더인 [Deep Dark Downloader](https://blog.naver.com/dt3141592/220775827121)를 앱으로도 만든거에요
+  - Dark Cheater에 있던 마인크래프트 PE 관련 콘텐츠 다운로더인 [Deep Dark Downloader](https://blog.naver.com/dt3141592/220775827121)를 앱으로 만든 것
   - 몇 년 동안 잘 있다가 갑자기 구글이 약관 위반이라면서 내려버렸는데, 어차피 ModPE 스크립트 자체가 사장된 상태라 개발 중단
 - [YouTube 다운로더](https://github.com/DarkTornado/YouTubeDownloader) - **지원 중단**
-  - 원래는 Nusty에 부가기능으로 넣으려다가 Google Play 스토어 정책 위반인 기능이라 넣지 않은 기능이에요.
+  - 원래는 Nusty에 부가기능으로 넣으려다가 Google Play 스토어 정책 위반인 기능이라 넣지 않은 기능
 
 ### ModPE 스크립트
 - [Dark Cheater](https://github.com/DarkTornado/darkCheater)
 - [Dark Cheater AddOn - Nusty](https://blog.naver.com/dt3141592/221033063264)
-  - 원래 Nusty는 Dark Cheater의 기능들을 음성 인식으로 실행해주던 애드온이였어요.
+  - 원래 Nusty는 Dark Cheater의 기능들을 음성 인식으로 실행해주던 애드온
 - Nustia - Terror Supporter
 
 ### 카카오톡 봇
 - 닼땅.js
-  - Nusty의 대화 기능을 구현하기 위해 만들어졌던 비공식 카카오톡 봇인거에요.
+  - Nusty의 대화 기능을 구현하기 위해 만들어졌던 비공식 카카오톡 봇
 - Lacia.js
   - 초기에는 Lacia.js의 기능들을 앱으로 다시 만든 것을 Lacia 앱으로 하려고 했었던거에요.
 - Skynet & [Skynet-Talk](https://github.com/DarkTornado/Skynet-Talk)
